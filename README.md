@@ -1,4 +1,4 @@
-# GTM Co-Founder — Full Claude Skill Set
+# Revion GTM Builder — Full Claude Skill Set
 
 A complete Claude-ready GTM operating system for developer tools, AI products and technical B2B companies.
 
