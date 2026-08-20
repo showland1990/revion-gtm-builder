@@ -1,12 +1,12 @@
 {
-  "name": "gtm-cofounder",
+  "name": "revion-gtm-builder",
   "owner": {
-    "name": "Shane O'Connor",
-    "url": "https://thedevtoolgtmcompany.com"
+    "name": "Scott Howland",
+    "url": "https://revionadvisory.com"
   },
   "plugins": [
     {
-      "name": "gtm-cofounder",
+      "name": "gtm-builder",
       "source": "./",
       "description": "Complete GTM operating system for foundation, PLG, sales, enterprise, revenue marketing, expansion and RevOps."
     }
