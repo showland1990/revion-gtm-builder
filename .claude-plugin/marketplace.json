@@ -1,0 +1,14 @@
+{
+  "name": "gtm-cofounder",
+  "owner": {
+    "name": "Shane O'Connor",
+    "url": "https://thedevtoolgtmcompany.com"
+  },
+  "plugins": [
+    {
+      "name": "gtm-cofounder",
+      "source": "./",
+      "description": "Complete GTM operating system for foundation, PLG, sales, enterprise, revenue marketing, expansion and RevOps."
+    }
+  ]
+}

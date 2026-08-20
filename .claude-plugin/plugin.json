@@ -1,0 +1,25 @@
+{
+  "name": "gtm-cofounder",
+  "version": "2.0.0",
+  "description": "Complete AI-native GTM operating system: foundation, PLG, sales-led growth, enterprise sales, revenue marketing, customer expansion, RevOps and GTM management.",
+  "author": {
+    "name": "Shane O'Connor",
+    "url": "https://thedevtoolgtmcompany.com"
+  },
+  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME",
+  "license": "MIT",
+  "keywords": [
+    "gtm",
+    "go-to-market",
+    "dev-tools",
+    "ai-products",
+    "technical-founders",
+    "plg",
+    "sales-led-growth",
+    "enterprise-sales",
+    "revenue-marketing",
+    "revops",
+    "agent-skills",
+    "claude-skills"
+  ]
+}

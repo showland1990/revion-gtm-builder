@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Company-specific GTM artifacts can be excluded if desired:
+# docs/gtm-cofounder/*.md
+# docs/gtm-cofounder/opportunities/
